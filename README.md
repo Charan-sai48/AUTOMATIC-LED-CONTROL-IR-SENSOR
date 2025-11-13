@@ -102,8 +102,55 @@ int main(void)
 ---
 ### OUTPUT
 CASE 1: LED ON 
-
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
 CASE 2: LED OFF
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 ### RESULT
